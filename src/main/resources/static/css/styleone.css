@@ -1,0 +1,25 @@
+.logo {
+    padding:0;
+}
+#myCarousel {
+    margin: 0 0 0 0;
+}
+#navbar-collapse ul {
+    margin-top:0;
+}
+.carousel-inner img{
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+}
+.carousel-control{
+    font-size: 100px;
+
+}
+.pho img{
+    width: 600px!important;
+    height: 300px!important;
+}
+.pho{
+    height: 400px;
+}
