@@ -11,6 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		system.out.println("查询github是不是采用的restful的方式");
 	}
 
 }
